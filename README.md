@@ -41,14 +41,14 @@ The models were evaluated using various metrics such as accuracy, precision, rec
 ## Results
 ### Logistic Regression 
 ```
- precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
-           0       0.90      0.82      0.86       972
-           1       0.72      0.84      0.78       532
+           0       0.91      0.82      0.86       417
+           1       0.72      0.85      0.78       228
 
-    accuracy                           0.83      1504
-   macro avg       0.81      0.83      0.82      1504
-weighted avg       0.84      0.83      0.83      1504
+    accuracy                           0.83       645
+   macro avg       0.82      0.84      0.82       645
+weighted avg       0.84      0.83      0.84       645
 ```
 
 ### Decision Tree
